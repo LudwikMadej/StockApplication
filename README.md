@@ -1,5 +1,4 @@
-# StockApplication  
-Co-author: [GitHub Profile](https://github.com/piotrkotlowski)  
+# StockApplication
 
 ## Description  
 This application was created as a project required to complete the **Advanced Object-Oriented and Functional Programming** (JAVA) course. We decided to align the theme with our field of study (**Analysis and Data Engineering**). Therefore, we developed a tool to collect stock market data, exchange rates, and commodity prices and visualize them.  
