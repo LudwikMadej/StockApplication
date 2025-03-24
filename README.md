@@ -28,7 +28,8 @@ Since this is a **Maven** project, you don't need to install any additional libr
 
 ## Overview
 ### Stock Market
-![image](https://github.com/user-attachments/assets/4a5b896b-b6b0-43a4-ba74-86db285c9497)
+![image](https://github.com/user-attachments/assets/65b925dc-35d0-45d5-821a-31b6514e0177)
+
 
 ### Commodities
 ![image](https://github.com/user-attachments/assets/2dcc0de2-0cab-4372-b24d-8b45e8eb1c49)
